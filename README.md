@@ -1,6 +1,6 @@
 # openvpn-simple-commands
 
-apt update
+# apt update
 mkdir openvpn
 cd openvpn
 wget https://raw.githubusercontent.com/angristan/openvpn-install/master/openvpn-install.sh
